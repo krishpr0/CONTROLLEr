@@ -1,0 +1,11 @@
+usb-to-pcie-re
+fw.bin
+build
+.*.swp
+uartexact
+__pycache__
+*.asm
+ghidra-asmedia-8051
+python/Software
+python/fw.zip
+trace
